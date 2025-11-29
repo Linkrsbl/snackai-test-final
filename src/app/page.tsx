@@ -36,6 +36,7 @@ export default function Home() {
           <p>hello</p>
           <span>짧은 문구</span>
           <p>이것은 추가된 짧은 문구입니다.</p>
+          <p>안녕하세요!</p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <a
