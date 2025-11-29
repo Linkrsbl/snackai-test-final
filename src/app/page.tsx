@@ -34,6 +34,7 @@ export default function Home() {
             center.
           </p>
           <p>hello</p>
+          <span>짧은 문구</span>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <a
