@@ -1,0 +1,12 @@
+// src/app/page.module.css
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #e6f0fa;
+  color: #222222;
+  text-align: center;
+  font-size: 2.5rem;
+}
