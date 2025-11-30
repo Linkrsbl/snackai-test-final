@@ -1,4 +1,4 @@
 // app/page.tsx
 export default function Page() {
-  return <>Hello !</>;
+  return <>hello</>;
 }
