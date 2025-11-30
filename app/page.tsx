@@ -2,8 +2,8 @@
 export default function Page() {
   return (
     <>
-      hello
       하이하이
+      헬로우
     </>
   );
 }
